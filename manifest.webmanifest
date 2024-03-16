@@ -1,0 +1,15 @@
+{
+    "name": "Floppy Bird",
+    "short_name": "Floppy Bird",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "Press the space bar to flap and avoid discs",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
